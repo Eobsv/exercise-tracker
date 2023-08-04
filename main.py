@@ -1,9 +1,9 @@
 import requests
 
 GENDER = "male"
-WEIGHT_KG = 80
-HEIGHT_CM = 183
-AGE = 26
+WEIGHT_KG = 100
+HEIGHT_CM = 190
+AGE = 22
 
 URL_CALC_FROM_NATURAL_LNG = "https://trackapi.nutritionix.com/v2/natural/exercise" # method POST
 
